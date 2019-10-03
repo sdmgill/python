@@ -1,0 +1,48 @@
+{
+  "ResultSet": {
+    "Rows": [
+      {
+        "Data": [
+          {
+            "VarCharValue": "_col0"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "-5"
+          }
+        ]
+      }
+    ],
+    "ResultSetMetadata": {
+      "ColumnInfo": [
+        {
+          "CatalogName": "hive",
+          "SchemaName": "",
+          "TableName": "",
+          "Name": "_col0",
+          "Label": "_col0",
+          "Type": "bigint",
+          "Precision": 19,
+          "Scale": 0,
+          "Nullable": "UNKNOWN",
+          "CaseSensitive": false
+        }
+      ]
+    }
+  },
+  "ResponseMetadata": {
+    "RequestId": "e82a6b02-4bfb-4007-a5ce-01fe599efddb",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "content-type": "application/x-amz-json-1.1",
+      "date": "Tue, 05 Jun 2018 03:52:36 GMT",
+      "x-amzn-requestid": "e82a6b02-4bfb-4007-a5ce-01fe599efddb",
+      "content-length": "566",
+      "connection": "keep-alive"
+    },
+    "RetryAttempts": 0
+  }
+}

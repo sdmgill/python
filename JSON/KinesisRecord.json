@@ -1,0 +1,26 @@
+[{"data":{
+          "GKEY":1367165915,
+          "GATE_GKEY":47024,
+          "TV_GKEY":1367165914,
+          "TRKC_GKEY":678791,
+          "DRIVER_GKEY":178152413,
+          "HAD_TROUBLE":0,
+          "STARTED":"2019-02-14T09:47:20.923000000Z",
+          "IS_CANCELED":0,
+          "CHANGED":"2019-02-14T09:47:20.939000000Z",
+          "CHANGER":"LADA/smarttec",
+          "CREATED":"2019-02-14T09:47:20.923000000Z",
+          "CREATOR":"LADA/smarttec",
+          "is_deleted":false,
+          },
+  {"metadata":
+            {
+              "timestamp":"2019-02-14T15:01:47.338740Z",
+              "record-type":"data",
+              "operation":"update",
+              "partition-key-type":"schema-table",
+              "schema-name":"dbo",
+              "table-name":"ROAD_TRUCK_VISIT_STATS",
+            },
+  }
+] 'PartitionKey': 'dbo.ROAD_TRUCK_VISIT_STATS'}, {'SequenceNumber': '49592871450111993241204023919508069530850556452787978242', 'ApproximateArrivalTimestamp': datetime.datetime(2019, 2, 14, 8, 1, 47, 344000, tzinfo=tzlocal()), 'Data': b'{"data":{"GKEY":1367165918,"SEQ_WITHIN_FACILITY":503701,"NBR":503701,"SUB_TYPE":"RM","CTR_IS_DAMAGED":0,"CHS_IS_OWNERS":0,"CHS_IS_DAMAGED":0,"IS_HAZARD":0,"IS_PLACARDED":0,"IS_PLACARDED_OK":0,"IS_OOG":0,"IS_CTR_SEALED":0,"IS_XRAY_REQUIRED":0,"HAS_DOCUMENTS":0,"CATEGORY":"STRGE","CTR_POS_IS_WHEELED":0,"CREATED":"2019-02-14T09:47:21.96000000Z","CREATOR":"LADA/smarttec","TRKCO_GKEY":678791,"TRUCK_VISIT_GKEY":1367165914,"FCY_GKEY":47006,"COMPLEX_GKEY":13684,"OPERATOR_GKEY":12861,"IS_TRAN_BUNDLED":0,"is_deleted":false},"metadata":{"timestamp":"2019-02-14T15:01:47.344571Z","record-type":"data","operation":"insert","partition-key-type":"schema-table","schema-name":"dbo","table-name":"ROAD_TRUCK_TRANSACTIONS"}}', 'PartitionKey': 'dbo.ROAD_TRUCK_TRANSACTIONS'}], 'NextShardIterator': 'AAAAAAAAAAFTSJG7abEEY2E+57ybDYA0JbA7g3WJpzjwW+I+wjY1iE50tUV2n/7aIK1XeE4W/TBzGBThNjVj42ZOCMgALKi+k3BgLk5xB4B5hC0wntyBA6+osdn5HwhbJZ9UTpUcknNlmrex5KDZNjn5mZMB1j6Fghj4MssIN1vik1lwX8pWBuEbRMXcUELg0AlFyA3nSff9LcBrqr4SB2yzN82vTzBZNtCHsDIwQOY6vYSRvNuG7Q==', 'MillisBehindLatest': 122000, 'ResponseMetadata': {'RequestId': 'c5e9ccb5-8b4f-8fe3-9136-492110b0eb8b', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'c5e9ccb5-8b4f-8fe3-9136-492110b0eb8b', 'x-amz-id-2': 'FbIomKBNggBF31jrz4LqRwsVR3G04kjWHLbeCmAVaT3m3axbeFO1PI5Ojv25MvKCGNBBwtQ/JSZvB1EPYgobRLxa+r9lLbdz', 'date': 'Thu, 14 Feb 2019 15:03:48 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '2631'}, 'RetryAttempts': 0}]
